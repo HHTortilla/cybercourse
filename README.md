@@ -1,2 +1,3 @@
 # cybercourse
-Assignments 
+
+Assignments for cybersecurity course
