@@ -18,8 +18,9 @@ So the targets are flooded with requests and as the result the rightful users ca
 
 Mirai targets the Internet of Things (IoT) devices such as printers, wireless modems, routers and even doorbells and other devices. 
 It scans the Internet for IoT-devices and IP-addresses and tries to identify vulnerable devices checking them against a list of common default passwords and usernames and logs into them to infect then. 
-Mirai infects networked devices that are running Linux operating systems and converts them into bots and the purpose is that the infected devices are used in coordinated, large-scale DDoS-attacks. 
+Mirai infects networked devices that are running Linux operating systems and converts them into bots and the purpose is that the infected devices are used in coordinated, large-scale DDoS-attacks.
 
+And the animation of the year trophy goes to.. :
 <img width="2666" height="1274" alt="image" src="https://github.com/user-attachments/assets/06d30a7e-9065-446c-bb67-3daad72830b5" />
 
 And why it still matters after all these years? Originally, Mirai botnets were used mainly for Distributed Denial of Service (DDoS) attacks 
