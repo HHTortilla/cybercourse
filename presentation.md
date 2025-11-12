@@ -30,9 +30,15 @@ And because of its variants, Mirai is still one of the most influential cybersec
 
 
 ## References
+
 Cloudfare s.a. What is the Mirai botnet? https://www.cloudflare.com/learning/ddos/glossary/mirai-botnet/. Accessed: 3.11.2025.
+
 Darknet Diaries. 17.5.2022. Daniel the Paladin. Darknet Diaries podcast. URL: https://darknetdiaries.com/episode/117/. Accessed 10.11.2025.
+
 Malwarebytes. s.a. What is the Mirai botnet? https://www.malwarebytes.com/what-was-the-mirai-botnet. Malwarebytes blog. Accessed: 7.11.2025.
+
 Okta. 1.9.2024. Mirai Botnet Malware: Definition, Impacts & Evolution. https://www.okta.com/identity-101/mirai-botnet/. Accessed 7.11.2025.
+
 Radware. s.a. What is the Mirai botnet? https://www.radware.com/security/ddos-knowledge-center/ddospedia/mirai/. Accessed: 7.11.2025.
+
 Usenix Security ’17. 15.9.2017. USENIX Security ’17 - Understanding the Mirai Botnet. Online video. URL:  https://www.youtube.com/watch?v=1pywzRTJDaY.  Accessed: 10.11.2025.
